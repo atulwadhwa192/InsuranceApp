@@ -4,7 +4,9 @@ This is an Insurance App created using following specification:
 
 Language - Java
 Framework Used- Spring MVC + JDBC
+
 Db used – MySQL
+
 Db crated –
 1.	User_record – Tables -> policy_record, user_entry
 2.	Admin_record – Tables -> admin_entry
