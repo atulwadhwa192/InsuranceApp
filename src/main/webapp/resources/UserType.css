@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body{
+	background: black;
+}
+
+.container{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.UserForm {
+    display: block;
+    padding: 10px;
+    display:inline;
+    margin-right:20px;
+    margin-bottom: 50px; 
+    text-align: justify;
+}
+
+.AdminForm {
+    display: block;
+    padding: 10px;
+    text-align: justify;
+/*     margin-top: 100px; OR ADD THIS LINE AND SET YOUR PROPER SPACE as the space above box2 */
+}
